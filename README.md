@@ -1,5 +1,5 @@
 # BlinkIT Sales Analysis Project
-
+![Example Image](blinkit.png)
 ## Project Overview
 This project is a comprehensive analysis of BlinkIT's sales performance, customer satisfaction, and inventory distribution, aiming to derive actionable insights for optimization. The analysis was conducted using Power BI, with an emphasis on understanding sales trends across various dimensions and KPIs.
 
